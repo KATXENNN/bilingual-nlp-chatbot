@@ -80,7 +80,7 @@ nlp-chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/KATXENNN/bilingual-nlp-chatbot
 cd nlp-chatbot
 ```
 
