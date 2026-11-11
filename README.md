@@ -81,7 +81,7 @@ nlp-chatbot/
 
 ```bash
 git clone https://github.com/KATXENNN/bilingual-nlp-chatbot.git
-cd nlp-chatbot
+cd bilingual-nlp-chatbot
 ```
 
 ### 2. Create a virtual environment
